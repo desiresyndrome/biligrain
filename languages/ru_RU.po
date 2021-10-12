@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.0\n"
+
+#. Text in echo
+#: single-product.php:23 sitemap.php:18 subcategory.php:14 thnx.php:16
+#: vacansy.php:18 404.php:11 about-company.php:18 category.php:14
+#: category-news.php:14 contacts.php:16 footer.php:38 partners.php:18
+#: service.php:18 single-news.php:28
+msgid "/"
+msgstr "/ru/"
+
+#. Text in echo
+#: vacansy.php:55 contacts.php:58 head.php:27 partners.php:115
+msgid "Iм&#39;я"
+msgstr "Имя"
+
+#. Text in echo
+#: head.php:11
+msgid "UA"
+msgstr "RU"
+
+#. Text in echo
+#: subcategory.php:53
+msgid "Є в наявностi"
+msgstr "В наличии"
+
+#. Text in echo
+#: contacts.php:25
+msgid "Адреса"
+msgstr "Адрес"
+
+#. Text in echo
+#: footer.php:4
+msgid "Бажаєте бути в курсі всіх подій?"
+msgstr "Хотите быть в курсе всех событий?"
+
+#. Text in echo
+#: vacansy.php:59 contacts.php:62 head.php:31 partners.php:119
+msgid "Вiдправити"
+msgstr "Отправить"
+
+#. Text in echo
+#: vacansy.php:58 contacts.php:61 head.php:30 partners.php:118
+msgid "Ваше повiдомлення"
+msgstr "Ваше сообщение"
+
+#. Text in echo
+#: single-product.php:23 sitemap.php:18 subcategory.php:14 thnx.php:16
+#: vacansy.php:18 about-company.php:18 category.php:14 category-news.php:14
+#: contacts.php:16 partners.php:18 service.php:18 single-news.php:28
+msgid "Головна"
+msgstr "Главная"
+
+#. Text in echo
+#: subcategory.php:55
+msgid "Детальнiше"
+msgstr "Подробнее"
+
+#. Text in echo
+#: index.php:75
+msgid "До каталогу"
+msgstr "В каталог"
+
+#. Text in echo
+#: vacansy.php:52 contacts.php:55 partners.php:113
+msgid "Залишити заявку"
+msgstr "Оставить заявку"
+
+#. Text in echo
+#: single-product.php:56
+msgid "Зв&#39;язатися з нами"
+msgstr "Связаться с нами"
+
+#. Text in echo
+#: head.php:17 head.php:24
+msgid "Зворотнiй зв&#39;язок"
+msgstr "Обратная связь"
+
+#. Text in echo
+#: index.php:66
+msgid "Каталог продукцiї"
+msgstr "Каталог продукции"
+
+#. Text in echo
+#: footer.php:36
+msgid "Контакти"
+msgstr "Контакты"
+
+#. Text in echo
+#: partners.php:62
+msgid "Купуємо:"
+msgstr "Покупаем:"
+
+#. Text in echo
+#: 404.php:11
+msgid "На головну"
+msgstr "На главную"
+
+#. Text in echo
+#: about-company.php:51
+msgid "Наші цінності"
+msgstr "Наши ценности"
+
+#. Text in echo
+#: subcategory.php:53
+msgid "Немає в наявностi"
+msgstr "Нет в наличии"
+
+#. Text in echo
+#: partners.php:100
+msgid "Обгрунтування"
+msgstr "Обоснование"
+
+#. Text in echo
+#: index.php:86
+msgid "Останнi новини"
+msgstr "Последние новости"
+
+#. Text in echo
+#: footer.php:14
+msgid "Пiдписатися"
+msgstr "Подписаться"
+
+#. Text in echo
+#: index.php:51
+msgid "Переваги"
+msgstr "Преимущества"
+
+#. Text in echo
+#: about-company.php:73 category.php:60
+msgid "Перейти"
+msgstr "Перейти"
+
+#. Text in echo
+#: partners.php:37
+msgid "Приймаємо замовлення на насіння:"
+msgstr "Принимаем заказы на семена:"
+
+#. Text in echo
+#: footer.php:28
+msgid "Про нас"
+msgstr "О нас"
+
+#. Text in echo
+#: footer.php:32 index.php:11
+msgid "Продукцiя"
+msgstr "Продукция"
+
+#. Text in echo
+#: footer.php:5
+msgid "Підпишіться на нашу розсилку! Ми будемо дуже раді вислати Вам наші новини."
+msgstr "Подпишитесь на нашу рассылку! Мы будем очень рады выслать Вам наши новости."
+
+#. Text in echo
+#: footer.php:48
+msgid "Розробка сайту: Web-Desire"
+msgstr "Разработка сайта: Web-Desire"
+
+#. Text in echo
+#: about-company.php:83
+msgid "Сертифiкати"
+msgstr "Сертификаты"
+
+#. Text in echo
+#: partners.php:87
+msgid "Співпраця"
+msgstr "Сотрудничество"
+
+#. Text in echo
+#: partners.php:87
+msgid "Співпраця в агрономічному супроводі"
+msgstr "Агрономическое сопровождение"
+
+#. Text in echo
+#: 404.php:10
+msgid "Сторінку не знайдено ..."
+msgstr "Страницу не найдено ..."
+
+#. Text in echo
+#: index.php:16
+msgid "Сфери нашої діяльності"
+msgstr "Сферы нашей деятельности"
+
+#. Text in echo
+#: vacansy.php:56 contacts.php:29 contacts.php:59 head.php:28 partners.php:116
+msgid "Телефон"
+msgstr "Телефон"
+
+#. Text in echo
+#: partners.php:100
+msgid "Тех. Економічне обгрунтування"
+msgstr "Тех. Экономическое обоснование"
+
+#. Text in echo
+#: subcategory.php:52 category.php:38
+msgid "Цiна: Уточнюйте у менеджера"
+msgstr "Цена: Уточняйте у менеджера"
+
+#. Text in echo
+#: subcategory.php:52
+msgid "Цiна: вiд"
+msgstr "Цена: от"
+
+#. Text in echo
+#: subcategory.php:52
+msgid "грн/т"
+msgstr "грн/т"
+
+#. Text in echo
+#: index.php:51
+msgid "переваги"
+msgstr "преимущества"
